@@ -1,2 +1,2 @@
 # hello-world
-Testing, testing 123
+Hi, I'm Tom and want to learn how to program using Python
